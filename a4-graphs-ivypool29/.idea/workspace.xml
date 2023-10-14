@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18bd091d-4390-400f-bf98-3b92221dc5ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zXc9TxtsQ8PVY9htVoLYw3DhLw" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DSU/Documents/Current Classes/CSC300/a4-graphs-ivypool29&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="BreadthFirstDirectedPaths" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BreadthFirstDirectedPaths" />
+      <module name="Trains" />
+      <option name="PROGRAM_PARAMETERS" value="test/largeDG.txt 3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BreadthFirstDirectedPathsTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BreadthFirstDirectedPathsTest" />
+      <module name="Trains" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DijkstraSP" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="DijkstraSP" />
+      <module name="Trains" />
+      <option name="PROGRAM_PARAMETERS" value="test/tinyEWD.txt 3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DirectedEdge" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="DirectedEdge" />
+      <module name="Trains" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EdgeWeightedDigraph" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="EdgeWeightedDigraph" />
+      <module name="Trains" />
+      <option name="PROGRAM_PARAMETERS" value="test/tinyEWD.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GraphGenerator" type="Application" factoryName="Application">
+      <output_file path="$PROJECT_DIR$/output.txt" is_save="true" />
+      <option name="MAIN_CLASS_NAME" value="GraphGenerator" />
+      <module name="Trains" />
+      <option name="PROGRAM_PARAMETERS" value="999 100000" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Trains" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TrainScheduler" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TrainScheduler" />
+      <module name="Trains" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
+    <configuration name="All in Trains" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Trains" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BreadthFirstDirectedPathsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Trains" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BreadthFirstDirectedPathsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BreadthFirstDirectedPathsTest.mediumGraph_hasPathTo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Trains" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BreadthFirstDirectedPathsTest" />
+      <option name="METHOD_NAME" value="mediumGraph_hasPathTo" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EdgeWeightedDigraphTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Trains" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EdgeWeightedDigraphTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EdgeWeightedDigraphTest.TinyGraph_adjEdges" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Trains" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EdgeWeightedDigraphTest" />
+      <option name="METHOD_NAME" value="TinyGraph_adjEdges" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BreadthFirstDirectedPathsTest" />
+      <item itemvalue="Application.BreadthFirstDirectedPaths" />
+      <item itemvalue="Application.DijkstraSP" />
+      <item itemvalue="Application.DirectedEdge" />
+      <item itemvalue="Application.EdgeWeightedDigraph" />
+      <item itemvalue="Application.GraphGenerator" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TrainScheduler" />
+      <item itemvalue="JUnit.All in Trains" />
+      <item itemvalue="JUnit.BreadthFirstDirectedPathsTest" />
+      <item itemvalue="JUnit.BreadthFirstDirectedPathsTest.mediumGraph_hasPathTo" />
+      <item itemvalue="JUnit.EdgeWeightedDigraphTest" />
+      <item itemvalue="JUnit.EdgeWeightedDigraphTest.TinyGraph_adjEdges" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EdgeWeightedDigraphTest" />
+        <item itemvalue="JUnit.EdgeWeightedDigraphTest.TinyGraph_adjEdges" />
+        <item itemvalue="JUnit.All in Trains" />
+        <item itemvalue="JUnit.BreadthFirstDirectedPathsTest" />
+        <item itemvalue="JUnit.BreadthFirstDirectedPathsTest.mediumGraph_hasPathTo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
